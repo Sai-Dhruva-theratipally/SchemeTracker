@@ -1,0 +1,19 @@
+{
+  "name": "schemetracker",
+  "version": "1.0.0",
+  "description": "It is a web application used to track schemes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sai-Dhruva-theratipally/SchemeTracker.git"
+  },
+  "author": "Sai Dhruva Theratipally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sai-Dhruva-theratipally/SchemeTracker/issues"
+  },
+  "homepage": "https://github.com/Sai-Dhruva-theratipally/SchemeTracker#readme"
+}
